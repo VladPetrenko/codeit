@@ -1,0 +1,27 @@
+.form-main {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 550px;
+    border: 1px solid #bdc3cc;
+    border-radius: 5px;
+}
+
+.form-main input, .form-main select {
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+.form-main button {
+    margin-left: 85%;
+    margin-bottom: 10px;
+}
+
+.form-head {
+    background-color: #eee;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.form-check-label {
+     margin-left: 37px;
+}

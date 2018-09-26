@@ -1,0 +1,35 @@
+.main {
+    margin-top: 10px;
+}
+
+.total-companies, .list-of-companies, .companies-by-location, .news {
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    height: 400px;
+    margin-top: 20px;
+
+}
+
+.total-companies-head, .list-of-companies-head, .companies-by-location-head, .news-head {
+    background-color: #eee;
+    padding: 5px 0 5px 0;
+    
+}
+
+.list-group{
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.total-number {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 10%;
+    font-size: 8em;
+}
